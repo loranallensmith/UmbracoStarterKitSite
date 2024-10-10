@@ -5,7 +5,8 @@ This repository contains an example Umbraco site with a simple starter kit packa
 ## Getting Started
 
 1. Make sure you have the latest .NET SDK installed.
-2. Clone this repository to your local machine.
+2. Clone this repository to your local machine and hop into that directory.
+3. Run `touch umbraco/Data/Umbraco.sqlite.db` to generate a local database for development.
 3. Run `dotnet dev-certs https --trust`
 4. Run `dotnet run`
 
