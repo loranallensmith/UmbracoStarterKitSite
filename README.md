@@ -15,6 +15,7 @@ This repository contains an example Umbraco site with a simple starter kit packa
 - [Umbraco Docs](https://docs.umbraco.com)
 - [Our Umbraco Forum](https://our.umbraco.com)
 - [Umbraco Community Discord](https://discord.umbraco.com)
+- [Umbraco Razor Cheatsheet](https://drive.google.com/file/d/171sMUOjjKv-bvlFEDNk7WN0I_UD9g670/view)
 
 ## Contributing
 
